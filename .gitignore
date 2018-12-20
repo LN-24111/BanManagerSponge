@@ -1,0 +1,11 @@
+#Eclipse
+/.settings
+/bin
+/build
+/.settings
+/.classpath
+/.project
+
+#ForgeGradle
+/.gradle
+
